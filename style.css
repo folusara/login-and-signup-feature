@@ -1,0 +1,150 @@
+form{
+
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+#bgform{
+  
+    width: 550px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    padding: 1px;
+    border-color: grey;
+    border-radius: 5px;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+span{
+    margin-right: 10px;
+}
+#bgform2{
+ 
+    width: 550px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 5px;
+}
+
+label{
+    margin-left: 5px;
+}
+
+#signinbut{
+width: 50%;
+margin-left: auto;
+}
+#line{
+    width: 500px;
+    height: 1px;
+    
+    background-color: grey;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+form #p{
+    font-size: xx-large;
+    font-weight: 500;
+    
+    margin-left: 40%
+}
+#exampleInputEmail1{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#exampleInputPassword1{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#exampleInputEmail2{
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#exampleInputPassword2{
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#sign{
+    margin-top: 50px;
+    height: 40px;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-weight: 700;
+ 
+}
+#OR{
+    font-size: xx-large;
+    margin-top: 20px;
+    font-weight: 500;
+    margin-left: 46%;
+}
+
+#flexinput{
+    display: flex;
+    flex-direction: row;
+}
+#share{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: -10px;
+    margin-bottom: 30px;
+    font-weight: 300;
+    
+}
+
+#sin{
+    margin-left: -15%;
+    margin-top: 1px;
+    margin-bottom: auto;
+}
+#sup{
+    margin-left: -10%;
+    margin-top: 1px;
+    margin-bottom: auto;
+}
+
+#signupp{
+        height: 40px;
+        width: 400px;
+        ;
+        margin-left: 20px;
+        text-align: center;
+    vertical-align: text-bottom;
+    border-radius: 5px;
+}
+#signinn{
+    height: 40px;
+    border-radius: 5px;
+    width: 400px;
+    
+    
+}
+form p{
+    font-size:large;
+    font-weight: 500;
+    margin-left: 60%;
+    margin-top: 20px;
+}
