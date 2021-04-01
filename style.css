@@ -60,23 +60,23 @@ form #p{
     margin-left: 40%
 }
 #exampleInputEmail1{
-    width: 500px;
+    /* width: 500px; */
     margin-right: auto;
     margin-left: auto;
 }
 #exampleInputPassword1{
-    width: 500px;
+     /* width: 500px;  */
     margin-right: auto;
     margin-left: auto;
 }
 
 #exampleInputEmail2{
-    width: 250px;
+     /* width: 250px;  */
     margin-right: auto;
     margin-left: auto;
 }
 #exampleInputPassword2{
-    width: 250px;
+     /* width: 250px;  */
     margin-right: auto;
     margin-left: auto;
 }
@@ -101,10 +101,7 @@ form #p{
     margin-left: 46%;
 }
 
-#flexinput{
-    display: flex;
-    flex-direction: row;
-}
+
 #share{
     display: flex;
     flex-direction: row;
